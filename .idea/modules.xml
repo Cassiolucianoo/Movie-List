@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MVVM-CLEAN-master-Teste.iml" filepath="$PROJECT_DIR$/.idea/modules/MVVM-CLEAN-master-Teste.iml" group="Teste" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Teste.iml" filepath="$PROJECT_DIR$/.idea/modules/Teste.iml" group="Teste" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Teste-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Teste-app.iml" group="Teste/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Teste-data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Teste-data.iml" group="Teste/data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Teste-domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Teste-domain.iml" group="Teste/domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Teste/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/data.iml" group="Teste/data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/domain.iml" group="Teste/domain" />
+    </modules>
+  </component>
+</project>

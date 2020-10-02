@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty_list">Você não tem nenhum filme favorito :(</string>
+    <string name="procurar">Pesquisar</string>
+    <string name="favoritos">FAVORITOS</string>
+    <string name="home">HOME</string>
+    <string name="movie">movie</string>
+</resources>
